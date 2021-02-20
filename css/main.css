@@ -439,10 +439,21 @@ Welcome area start
 .welcome-area {
 	background-color: #000000;
 	height: 5000px;
-	padding-top: 100px;
+	padding-top: 90px;
 }
 
 .header-text {
 	height: 600px;
-	background-color: #fddaed;
+	background-color: #b61924;
+  background-image: url('../img/img-1.jpeg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+.stupid {
+  left: 0;
+  right: 0;
+  margin-top: 20%;
 }
